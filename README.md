@@ -1,4 +1,4 @@
-# BoaConstrictorTest
+# How To Run A Test
 How to run a test:
 
 Navigate to ..\BoaConstrictor\SeleniumGrid
